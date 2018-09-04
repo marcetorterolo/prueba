@@ -58,7 +58,7 @@ void pruebaInsertionSort(int *a, int N) {
 }
 
 int main() {
-   const int N = 500;
+   const int N = 100;
    int *a = new int[N];
 
    crearArreglo(a, N);
